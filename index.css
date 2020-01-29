@@ -1,0 +1,37 @@
+/* body {
+    background: linear-gradient(rgba(14, 13, 13, 0.651), rgba(24, 23, 23, 0.801)), url("bg.jpg");
+    background-size: cover;
+}
+
+#menu-nav {
+    background-color: black;
+}
+
+td {
+    color: white;
+    font-weight: 600;
+}
+
+.container-fluid {
+    margin-top: 3vh;
+}
+
+#Previous,
+#next {
+    margin-top: 3vh;
+    margin-left: 5vw;
+}*/
+
+#detailles {
+    height: 30vh;
+    border: 10px solid rgba(68, 67, 67, 0.349);
+}
+
+#detailles p {
+    margin-top: 3vh;
+    margin-left: 2vh;
+}
+
+.card {
+    height: 30vh;
+}
